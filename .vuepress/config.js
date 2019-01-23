@@ -8,9 +8,12 @@ module.exports = {
         '/ru/': {
             lang: 'ru-RU',
             title: 'Дао Дэ Цзин',
-            description: 'Лао-цзы'
+            description: 'Лао-Цзы'
         }
     },
+    head: [
+    ['link', { rel: 'icon', href: '/favicon.png' }]
+    ],
     themeConfig: {
         locales: {
             '/': {

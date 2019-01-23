@@ -7,10 +7,12 @@ Te Ching is probably the most influential Chinese book of all times. Its 81 chap
 been translated into English more times than any other Chinese document.
 The Tao Te Ching provides the basis for the philosophical school of Taoism, which is an
 important pillar of Chinese thought. Taoism teaches that there is one undivided truth at
-the root of all things. It literally means:
-= tao (the way)
-= te (strength/virtue)
-= ching (scripture)
+the root of all things. It literally means:</br>
+
+* Tao (the way)</br>
+* Te (strength/virtue)</br>
+* Ching (scripture)</br>
+
 The verses of the Tao Te Ching are written in ancient Chinese, which is very different from
 English. Abstraction and logic are not distinguishing marks of the ancient Chinese
 language, hence, it is less rigid than English and there are very few formal or grammatical
@@ -38,7 +40,7 @@ passed on. Lao Tzu then retreated into the solitude of the mountain pass, wrote 
 Ching, whereupon he went westward and was never seen again.
 
 ## About Yin & Yang
-
+<img src="yin_yang.jpg"></br>
 In Chinese philosophy, the rhythm of life, which pulsates through the universe, is the
 action of complementary principles Yin and Yang. The T’ai-chi T’u diagram (above)
 illustrates this principle. The symmetrical disposition of the dark Yin and the light Yang
@@ -52,55 +54,35 @@ climax it recedes in favour of Yin. This is the eternal cycle. The dots inside t
 black halves indicate that within each is the seed of the other. Yin cannot exist without
 Yang and vice versa.
 The ideal state of things in the physical universe, as well as in the world of humans, is a
-state of harmony represented by the balance of Yin and Yang in body and mind.
-Yin
-- Night, Dark
-- Rain, Water, Cold
-- Winter, Autumn
-- Odd Numbers
-- The Moon
-- North, West
-- Right, Down
-- Intuition
-- Passive, Static
-- Contraction
-- Decreasing
-- Conservative
-Yang
-- Traditional
-- Valley
-- River
-- Curve
-- Soft
-- Solidifying
-- Psychological
-- Astral World
-- Tiger
-- Kidneys, Heart
-- Liver, Lungs
-- Day, Light
-- Fire, Heat
-- Summer, Spring
-- Even Numbers
-- The Sun
-- South, East
-- Left, Up
-- Intellect
-- Active, Dynamic
-- Expansion
-- Increasing
-- Innovative
-- Reformative
-- Mountain
-- Desert
-- Straight Line
-- Hard
-- Dissolving
-- Physical
-- Visible World
-- Dragon
-- Bladder
-- Intestines, Skin
+state of harmony represented by the balance of Yin and Yang in body and mind.</br>
+
+
+| Yin                   | Yan              |
+| --------------------- | ---------------- |
+| Night, Dark           | Day, Light       |
+| Rain, Water, Cold     | Fire, Heat       |
+| Winter, Autumn        | Summer, Spring   |
+| Odd Numbers           | Even Numbers     |
+| The Moon              | The Sun          |
+| North, West           | South, East      |
+| Right, Down           | Left, Up         |
+| Intuition             | Intellect        |
+| Passive, Static       | Active, Dynamic  |
+| Contraction           | Expansion        |
+| Decreasing            | Increasing       |
+| Conservative          | Innovative       |
+| Traditional           | Reformative      |
+| Valley                | Mountain         |
+| River                 | Desert           |
+| Curve                 | Straight Line    |
+| Soft                  | Hard             |
+| Solidifying           | Dissolving       |
+| Psychological         | Physical         |
+| Astral World          | Visible World    |
+| Tiger                 | Dragon           |
+| Kidneys, Heart        | Bladder          |
+| Liver, Lungs          | Intestines, Skin |
+
 
 ## About the Translation
 Of all the English translations of the Tao Te Ching, one had to be chosen for
